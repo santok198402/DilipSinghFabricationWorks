@@ -1,0 +1,85 @@
+body{
+  margin:0px;
+}
+  .head{
+    position: absolute;
+    height:180px;
+    width:100%;
+  }
+  .color{
+  background-color:yellow;
+  height:130px;
+  width:100%;
+  position:relative;
+}
+.phno{
+  position:absolute;
+  top:70px;
+  right:80px;
+}
+.img1{
+  position:relative;
+  height:250px;
+  width:100%;
+  text-align:center;
+
+}
+.raviimg{
+top:20px;
+  position:absolute;
+}
+.raviname{
+  top:170px;
+  position:absolute;
+  display:inline-block;
+
+}
+.shedimg{
+  height:300px;
+  width:100%;
+}
+.color2{
+  height:120px;
+  position:relative;
+  width:100%;
+text-align: center;
+}
+.main{
+
+  top:30px;
+  background-color: grey;
+  display: inline-block;
+  border: solid;
+}
+.photos{
+  position:relative;
+  height:700px;
+  overflow:auto;
+  background-color: black;
+width:97%;
+left:30px;
+}
+.images{
+  position:absolute;
+  left:70px;
+padding:20px;
+border:20px;
+}
+.paraup{
+  position: relative;
+text-align: center;
+}
+.para{
+  position:relative;
+}
+.add{
+  position:relative;
+  background-color: black;
+  height:50px;
+  text-align: center;
+}
+.add1{
+  position:relative;
+  top:20px;
+  color: white;
+}

@@ -1,0 +1,42 @@
+body{
+  background-color: white;
+  text-align: center;
+  font-family:'Merriweather',serif;
+}
+h1{
+  font-family:'Sacramento',serif;
+  color:red;
+}
+para{
+  font-family: 'Sacramento',serif;
+}
+.Pro{
+  text-decoration:underline;
+}
+.top-container{
+  position: relative;
+  padding-top:100px;
+}
+
+.cloud1{
+position: absolute;
+right:100px;
+}
+.cloud2{
+  position:absolute;
+  left:100px;
+}
+.mountain1{
+  position:absolute;
+top: 400px;
+  right:400px;
+}
+.bottom-container
+{
+  position:relative;
+  padding-top: 500px;
+}
+.name
+{
+    font-family: 'Sacramento',serif;
+}

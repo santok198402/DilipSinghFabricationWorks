@@ -1,0 +1,27 @@
+.red{
+  height:100px;
+  width:100%;
+  background-color: red;
+  position:relative;
+}
+.no1{
+  position:absolute;
+  right:0px;
+  top:80px;
+}
+.blue{
+  position:relative;
+  height:100px;
+  width: 100%;
+  background-color: blue;
+  text-align: center;
+}
+.raviimg{
+  position:absolute;
+}
+.yellow{
+  height:100px;
+  width:100%;
+  background-color: yellow;
+
+}
