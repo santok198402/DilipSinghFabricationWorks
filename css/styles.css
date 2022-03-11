@@ -32,7 +32,7 @@ top:20px;
   top:170px;
   position:absolute;
   display:inline-block;
-
+ font-family:'Sacramento',serif;
 }
 .shedimg{
   height:300px;
@@ -53,17 +53,24 @@ text-align: center;
 }
 .photos{
   position:relative;
-  height:700px;
+  height: 700px;
   overflow:auto;
-  background-color: black;
-width:97%;
-left:30px;
+width: 100%;
+}
+.imgcolor{
+  position:absolute;
+  left:100px;
+  right:100px;
+  height:100%;
 }
 .images{
   position:absolute;
-  left:70px;
+  left:50px;
+  right:50px;
 padding:20px;
 border:20px;
+border: solid;
+background-color: black;
 }
 .paraup{
   position: relative;
